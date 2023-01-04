@@ -14,7 +14,7 @@ public class MiniMaxSum {
     public static void main(String[] args) {
         Integer [] arr = {5, 5, 5, 5, 5};
 
-        miniMaxSum((List<Integer>) Arrays.asList(arr));
+        miniMaxSum( Arrays.asList(arr));
     }
 
     public static void miniMaxSum(List<Integer> arr) {
@@ -23,10 +23,10 @@ public class MiniMaxSum {
         long max = arr.get(0);
         long sum = 0;
 
-        for (int i = 0; i < arr.size(); i++) {
-            sum += arr.get(i);
-            min = Math.min(min, arr.get(i));
-            max = Math.max(max, arr.get(i));
+        for (Integer integer : arr) {
+            sum += integer;
+            min = Math.min(min, integer);
+            max = Math.max(max, integer);
         }
 
 
