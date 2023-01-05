@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2eb6c11c-fee1-4537-bb6c-58f9993a2c55" name="Changes" comment="Two problem solved">
-      <change afterPath="$PROJECT_DIR$/Week-1/src/main/java/com/cydeo/time_conversion/TimeConversion.java" afterDir="false" />
+    <list default="true" id="2eb6c11c-fee1-4537-bb6c-58f9993a2c55" name="Changes" comment="Time Conversion Solved">
+      <change afterPath="$PROJECT_DIR$/Week-1/src/main/java/com/cydeo/breaking_the_records/BreakingThRecords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       <updated>1672818602866</updated>
       <workItem from="1672818604105" duration="6137000" />
       <workItem from="1672826273600" duration="1000" />
-      <workItem from="1672901967110" duration="2342000" />
+      <workItem from="1672901967110" duration="3269000" />
     </task>
     <task id="LOCAL-00001" summary="Two prolbem solved">
       <created>1672826185368</created>
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672826215526</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Time Conversion Solved">
+      <created>1672904836485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672904836485</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Two prolbem solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two prolbem solved" />
+    <MESSAGE value="Time Conversion Solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Time Conversion Solved" />
   </component>
 </project>
