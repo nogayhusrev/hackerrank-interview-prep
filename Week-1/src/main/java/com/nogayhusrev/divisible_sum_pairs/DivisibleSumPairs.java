@@ -1,4 +1,4 @@
-package com.cydeo.divisible_sum_pairs;
+package com.nogayhusrev.divisible_sum_pairs;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package com.cydeo.came_case;
+package com.nogayhusrev.came_case;
 import java.util.*;
 
 public class CamelCase {
@@ -113,7 +113,6 @@ public class CamelCase {
 
         return output.toLowerCase();
     }
-
     public static String combineMethodName(String input) {
         String output = "";
         String[] strings = input.split(" ");

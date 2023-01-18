@@ -1,4 +1,4 @@
-package com.cydeo.breaking_the_records;
+package com.nogayhusrev.breaking_the_records;
 
 import java.util.ArrayList;
 import java.util.List;

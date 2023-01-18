@@ -1,4 +1,4 @@
-package com.cydeo.mini_max_sum;
+package com.nogayhusrev.mini_max_sum;
 
 import java.util.Arrays;
 import java.util.List;

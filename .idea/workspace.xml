@@ -4,10 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2eb6c11c-fee1-4537-bb6c-58f9993a2c55" name="Changes" comment="Breaking the Records Solved">
-      <change afterPath="$PROJECT_DIR$/Week-1/src/main/java/com/cydeo/came_case/CamelCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week-1/src/main/java/com/cydeo/divisible_sum_pairs/DivisibleSumPairs.java" afterDir="false" />
+    <list default="true" id="2eb6c11c-fee1-4537-bb6c-58f9993a2c55" name="Changes" comment="divisibleSumPairs camelcase 4 added">
+      <change afterPath="$PROJECT_DIR$/Week-1/src/main/java/com/nogayhusrev/find_the_median/FindTheMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week-1/src/main/java/com/nogayhusrev/sparse_arrays/SparseArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week-2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week-2/src/main/java/com/nogayhusrev/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week-2/src/main/java/com/nogayhusrev/counting_sort/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week-2/src/main/java/com/nogayhusrev/diagonal_difference/DiagonalDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week-2/src/main/java/com/nogayhusrev/flipping_bits/FlippingBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week-2/src/main/java/com/nogayhusrev/grading_students/GradingStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week-2/src/main/java/com/nogayhusrev/lonely_integer/LonelyInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-1/src/main/java/com/cydeo/breaking_the_records/BreakingThRecords.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1/src/main/java/com/nogayhusrev/breaking_the_records/BreakingThRecords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-1/src/main/java/com/cydeo/came_case/CamelCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1/src/main/java/com/nogayhusrev/came_case/CamelCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-1/src/main/java/com/cydeo/divisible_sum_pairs/DivisibleSumPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1/src/main/java/com/nogayhusrev/divisible_sum_pairs/DivisibleSumPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-1/src/main/java/com/cydeo/mini_max_sum/MiniMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1/src/main/java/com/nogayhusrev/mini_max_sum/MiniMaxSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-1/src/main/java/com/cydeo/plus_minus/PlusMinus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1/src/main/java/com/nogayhusrev/plus_minus/PlusMinus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-1/src/main/java/com/cydeo/time_conversion/TimeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1/src/main/java/com/nogayhusrev/time_conversion/TimeConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,19 +61,19 @@
     <option name="flattenModules" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19 (2)&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +86,11 @@
       <workItem from="1672826273600" duration="1000" />
       <workItem from="1672901967110" duration="3894000" />
       <workItem from="1672906300760" duration="33000" />
-      <workItem from="1672997327648" duration="4755000" />
+      <workItem from="1672997327648" duration="5076000" />
+      <workItem from="1673251394720" duration="6140000" />
+      <workItem from="1673424632336" duration="5938000" />
+      <workItem from="1673522478038" duration="6527000" />
+      <workItem from="1674026365442" duration="7506000" />
     </task>
     <task id="LOCAL-00001" summary="Two prolbem solved">
       <created>1672826185368</created>
@@ -99,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672906139710</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="divisibleSumPairs camelcase 4 added">
+      <created>1673002383918</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673002383918</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +148,8 @@
     <MESSAGE value="Two prolbem solved" />
     <MESSAGE value="Time Conversion Solved" />
     <MESSAGE value="Breaking the Records Solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Breaking the Records Solved" />
+    <MESSAGE value="divisibleSumPairs camelcase 4 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="divisibleSumPairs camelcase 4 added" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,4 +1,4 @@
-package com.cydeo.time_conversion;
+package com.nogayhusrev.time_conversion;
 
 public class TimeConversion {
 
