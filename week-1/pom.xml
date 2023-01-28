@@ -9,8 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.nogayhusrev</groupId>
-    <artifactId>Week-2</artifactId>
+    <artifactId>week-1</artifactId>
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
